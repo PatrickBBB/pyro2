@@ -12,13 +12,7 @@
 
 *A simple python-based tutorial on computational methods for hydrodynamics*
 
-pyro is a computational hydrodynamics code that presents
-two-dimensional solvers for advection, compressible hydrodynamics,
-diffusion, incompressible hydrodynamics, and multigrid, all in a
-finite-volume framework.  The code is mainly written in python and is
-designed with simplicity in mind.  The algorithms are written to
-encourage experimentation and allow for self-learning of these code
-methods.
+This is a test! Hei Ola!
 
 The latest version of pyro is always available at:
 
